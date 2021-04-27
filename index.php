@@ -113,7 +113,7 @@
 			<p></p>
 				<div class="button"><a href="objetos3d.php">Objetos</a></div>
 			<p></p>
-				<div class="button"><a href="objetoar">Prehistoria en Tlaxiaco (AR)</a></div>
+				<div class="button"><a href="objetoar.php">Prehistoria en Tlaxiaco (AR)</a></div>
 			<p></p>
 			
 			<!--<div class="close_but"><i class="close1"> </i></div>-->
