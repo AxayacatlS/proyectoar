@@ -170,11 +170,11 @@
 			<h2>Explore de distintas maneras</h2>
 			<p>Puede explorar desde una imagen de 360°, observar objetos, hasta usar la camara con tecnologia AR</p>
 			
-			<center><div class="button"><a href="#">Vistas 360°</a></div></center>
+			<center><div class="button"><a href="vista360.php">Vistas 360°</a></div></center>
 			<p></p>
-				<div class="button"><a href="#">Objetos</a></div>
+				<div class="button"><a href="objetos3d.php">Objetos</a></div>
 			<p></p>
-				<div class="button"><a href="#">Prehistoria en Tlaxiaco (AR)</a></div>
+				<div class="button"><a href="objetoar.php">Prehistoria en Tlaxiaco (AR)</a></div>
 			<p></p>
 			
 			<!--<div class="close_but"><i class="close1"> </i></div>-->
